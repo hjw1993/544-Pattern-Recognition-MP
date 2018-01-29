@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/huangjingwei/Desktop/ECE544/jhuan106/mp2/DeepAE/model/model.ckpt"
+all_model_checkpoint_paths: "/Users/huangjingwei/Desktop/ECE544/jhuan106/mp2/DeepAE/model/model.ckpt"
